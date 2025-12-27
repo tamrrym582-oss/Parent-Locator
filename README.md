@@ -40,7 +40,4 @@ The system ensures student safety during transportation, provides real-time moni
 - Provides efficient bus management.  
 - Real-time monitoring and quick emergency response.  
 
----
 
-## 📄 License
-This project is licensed under the **MIT License** – free to use, modify, and share with attribution.
